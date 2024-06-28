@@ -294,6 +294,15 @@ public class MultiSessionTelegramBot extends TelegramLongPollingBot {
         }
     }
 
+    public static String loadSecret(String name) {
+        try {
+            var is = ClassLoader.getSystemResourceAsStream("secrets/" + name + ".txt");
+            return new String(is.readAllBytes());
+        } catch (IOException e) {
+            throw new RuntimeException("Can't load file!");
+        }
+    }
+
     public static InputStream loadImage(String name) {
         try {
             return ClassLoader.getSystemResourceAsStream("images/" + name + ".jpg");
