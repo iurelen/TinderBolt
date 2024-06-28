@@ -1,6 +1,11 @@
-![Header](https://github.com/iurelen/TinderBolt/blob/main/src/main/resources/images/gpt.jpg)
+![Header](https://github.com/iurelen/TinderBolt/blob/main/src/main/resources/images/gpt.jpg)[https://github.com/iurelen/TinderBolt]
 
 # Telegram Bot c ChatGPT
+
+![java](https://img.shields.io/badge/Java-ED8B00?style=flat-squeare&logo=openjdk&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellij-idea&style=flat-squeare)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat-squeare&logo=openai&logoColor=white)
 
 ### Телеграм-бот для свиданий и советов в переписке
 
