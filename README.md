@@ -1,4 +1,4 @@
-![Header](https://github.com/iurelen/TinderBolt/blob/main/src/main/resources/images/gpt.jpg)[https://github.com/iurelen/TinderBolt]
+![Header](https://github.com/iurelen/TinderBolt/blob/main/src/main/resources/images/gpt.jpg[https://github.com/iurelen/TinderBolt])
 
 # Telegram Bot c ChatGPT
 
